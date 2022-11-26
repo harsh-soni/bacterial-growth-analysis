@@ -1,4 +1,4 @@
-# bacterial-growth-analysis
+# Bacterial Growth Analysis
 
 An exploratory analysis of bacterial growth in petri dish. The observed growth is modeled with a logistic curve.
 
